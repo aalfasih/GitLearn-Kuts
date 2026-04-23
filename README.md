@@ -1,4 +1,8 @@
-# GitLearn-Kuts
-#Grundkurs Git zulernen.
-# um Git zu beherschen
-#und Ueben 
+#Git- Grundkus
+ GitHub lrenen und intensive ueben
+
+ ##Projektdareien
+ umfasst Java Beispiele
+
+
+ ###Code implementiren
