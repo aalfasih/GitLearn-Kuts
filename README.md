@@ -1,4 +1,4 @@
-# Git- Grundkus
+# Git- Grundkurs
  GitHub lrenen und intensive ueben
 
  ## Projektdareien
