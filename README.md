@@ -7,4 +7,4 @@
 
  ### Code implementiren
 
- code sofort pushen
+ code sofort pushen und moegliche Weise pullen
