@@ -7,4 +7,5 @@
 
  ### Code implementiren
 
- code sofort pushen und moegliche Weise pullen
+ code sofort pushen und moegliche Weise pullen 
+ Konflike behandeln
